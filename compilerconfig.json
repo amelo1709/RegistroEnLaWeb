@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 ﻿[
   {
     "outputFile": "www/js/jquery.mobile-1.4.5.min.es5.js",
     "inputFile": "www/js/jquery.mobile-1.4.5.min.js"
   }
+=======
+﻿[
+  {
+    "outputFile": "www/js/jquery.mobile-1.4.5.min.es5.js",
+    "inputFile": "www/js/jquery.mobile-1.4.5.min.js"
+  }
+>>>>>>> e07b9d96099c816fdb1ea458705ebd2360782c4f
 ]
